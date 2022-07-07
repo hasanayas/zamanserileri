@@ -1,1 +1,1 @@
-# zamanserileri
+# Pandasta Zaman Serilerinin Analizi
